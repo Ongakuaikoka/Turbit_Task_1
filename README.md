@@ -14,8 +14,8 @@ What It Does
 Quick Start
 
 1. Clone the Repo
-  git clone https://github.com/your-username/project-name.git
-  cd project-name
+  git clone https://github.com/Ongakuaikoka/Turbit_Task_1.git
+  cd Turbit_Task_1
 
 2. Start MongoDB and FastAPI
   docker-compose up --build
